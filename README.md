@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shishodiaanjali597-netizen/DSA--Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shishodiaanjali597-netizen/DSA--Practice/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/shishodiaanjali597-netizen/DSA--Practice/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shishodiaanjali597-netizen/DSA--Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shishodiaanjali597-netizen/DSA--Practice/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shishodiaanjali597-netizen/DSA--Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shishodiaanjali597-netizen/DSA--Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/shishodiaanjali597-netizen/DSA--Practice/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shishodiaanjali597-netizen/DSA--Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
